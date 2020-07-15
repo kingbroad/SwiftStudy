@@ -8,4 +8,4 @@
 4、swift-4（集合类型）(文章地址：https://www.jianshu.com/p/e976ae479880)  
 5、swift-5（控制流）(文章地址：https://www.jianshu.com/p/006442e5e19a)  
 6、swift-6（函数）(文章地址：https://www.jianshu.com/p/d956f3d7ba08)  
-
+7、swift-7（⚠️闭包）(文章地址：https://www.jianshu.com/p/2e20291d1b38)
